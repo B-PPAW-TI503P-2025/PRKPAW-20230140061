@@ -1,0 +1,7 @@
+- [x] Create express-library-app folder
+- [x] Initialize package.json
+- [x] Install express
+- [x] Create server.js with CRUD routes, logging middleware, input validation, error handling
+- [x] Test the server by running it
+- [x] Add screenshots of API endpoints to TUGAS/Tugas2.md
+- [ ] Push project to GitHub
